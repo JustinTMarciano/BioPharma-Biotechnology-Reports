@@ -36,7 +36,7 @@ For broader company analyses, I utilize a range of valuation techniques appropri
 
 This section contains a curated list of my completed analyses. Each report is a self-contained, professional-grade product.
 
-*   **[Sarepta Therapeutics (SRPT) - An Analysis of Tail Risk & Valuation Floor (August 2025)](/SRPT_Elevidys_Analysis)**
+*   **[Sarepta Therapeutics (SRPT) - An Analysis of Tail Risk & Valuation Floor (August 2025)](/Sarepta; Elevidys.pdf)**
     *   **Description:** A deep dive into Sarepta's Elevidys franchise following an 87% YTD share price collapse, dissecting the clinical data, adverse safety events, and regulatory fallout that triggered a market crisis.
     *   **Methodology:** Hybrid DCF and Sum-of-the-Parts (SOTP) valuation.
     *   **Conclusion:** **Buy rating with a ~$34 price target.** The analysis concludes that the market has more than fully priced in a near-worst-case scenario, with the stable PMO franchise providing a tangible valuation floor at a point of maximum pessimism.
