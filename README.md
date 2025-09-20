@@ -41,6 +41,12 @@ This section contains a curated list of my completed analyses. Each report is a 
     *   **Methodology:** Hybrid DCF and Sum-of-the-Parts (SOTP) valuation.
     *   **Conclusion:** **Buy rating with a ~$34 price target.** The analysis concludes that the market has more than fully priced in a near-worst-case scenario, with the stable PMO franchise providing a tangible valuation floor at a point of maximum pessimism.
 
+*   **[Arvinas. Inc, - Postmortem on a PROTAC Pioneer: The 
+Vepdegestrant Phase III Failure (Seeptember 2025)](/EquityResearch-ArvinasPostmortem.pdf)**
+    *   **Description:** A forensic analysis of vepdegestrant, Arvinas's lead PROTAC degrader, following the failure of its pivotal Phase III VERITAC-2 trial. This report dissects the disconnect between the drug's scientific hypothesis and its flawed molecular properties, concluding the failure was due to poor medicinal chemistry and pharmacokinetics.
+    *   **Methodology:** A fundamental, DCF-based valuation to establish a post-failure floor valuation.
+    *   **Conclusion:** **Hold Rating with an ~$8.00 Price Target.** The analysis concludes this was a molecule-specific failure and that the market is now appropriately pricing ARVN as a specialty commercial asset-backed company.
+
 *   **UPCOMING[Ionis Pharmaceuticals (IONS) - Donidalorsen PDUFA Analysis (August 2025)](/IONS_Donidalorsen_PDUFA)**
     *   **Description:** A deep dive into the upcoming FDA decision for Ionis's HAE drug, Donidalorsen.
     *   **Methodology:** Probabilistic catalyst analysis.
