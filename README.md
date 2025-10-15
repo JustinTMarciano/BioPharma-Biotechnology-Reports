@@ -5,11 +5,9 @@
 
 ### 1. Mission Statement & Analytical Philosophy
 
-This repository serves as a professional portfolio of my independent equity research, focusing on deep, fundamental analysis of publicly-traded companies, primarily within the biotechnology and pharmaceutical sectors.
+This repository serves as a professional portfolio of my independent equity research, focusing on fundamental analysis of publicly-traded companies, primarily within the biotechnology and pharmaceutical sectors.
 
-My analytical philosophy is grounded in a rigorous, evidence-based approach that seeks to identify a quantifiable "edge" against the market's prevailing sentiment. I believe that a superior understanding of clinical data, regulatory pathways, and market dynamics can lead to the identification of mispriced securities.
-
-All analyses are structured using an **institutional equity research (ER) framework**, designed to deliver a clear, actionable, and data-driven investment thesis.
+All analyses are structured using an **institutional equity research (ER) framework**, designed to deliver a clear, actionable, and data-driven analysis.
 
 ---
 
@@ -23,7 +21,7 @@ For binary, catalyst-driven events (e.g., PDUFA decisions, pivotal trial readout
 2.  **Bottom-Up Fundamental Modeling:** I then build a proprietary, weighted-factor model to derive a fundamental probability from the ground up. This involves a deep dive into:
     *   **Scientific & Clinical Data:** Mechanism of Action (MOA), Phase 1-3 trial results, statistical significance (p-values), and clinical meaningfulness.
     *   **Regulatory & Safety Hurdles:** Scrutiny of safety & tolerability profiles, manufacturing (CMC) risk, and historical FDA precedent.
-3.  **Identifying the "Edge":** The final output is the quantifiable difference between my fundamental probability and the market's implied odds, which forms the core of the investment thesis.
+3.  **Identifying an Opportunity:** The final output is the quantifiable difference between my fundamental probability and the market's implied odds, which forms the core of the investment thesis.
 
 #### **Valuation & Financial Modeling**
 For broader company analyses, I utilize a range of valuation techniques appropriate for the sector, including:
