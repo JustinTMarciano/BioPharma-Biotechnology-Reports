@@ -1,5 +1,5 @@
 # Equity Research & Biotech Analysis Portfolio
-### A Collection of My Investment Theses
+### A Collection of Theses and Due Dilligence
 
 ---
 
